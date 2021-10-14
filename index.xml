@@ -10,19 +10,19 @@
     <lastBuildDate>Thu, 14 Oct 2021 11:02:15 -0300</lastBuildDate><atom:link href="https://blog.kenyos.me/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Herou</title>
-      <link>https://blog.kenyos.me/herou/</link>
+      <link>https://blog.kenyos.me/posts/herou_worudi/</link>
       <pubDate>Thu, 14 Oct 2021 11:02:15 -0300</pubDate>
       
-      <guid>https://blog.kenyos.me/herou/</guid>
+      <guid>https://blog.kenyos.me/posts/herou_worudi/</guid>
       <description>Try to push posts directly now.. herou worudi :D</description>
     </item>
     
     <item>
       <title>Herou</title>
-      <link>https://blog.kenyos.me/herou/</link>
+      <link>https://blog.kenyos.me/posts/herou/</link>
       <pubDate>Thu, 14 Oct 2021 11:02:14 -0300</pubDate>
       
-      <guid>https://blog.kenyos.me/herou/</guid>
+      <guid>https://blog.kenyos.me/posts/herou/</guid>
       <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
     </item>
     

@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blog.kenyos.me/blog/</loc>
-    <lastmod>2021-10-14T11:02:15-03:00</lastmod>
-  </url><url>
-    <loc>https://blog.kenyos.me/herou/</loc>
+    <loc>https://blog.kenyos.me/posts/herou_worudi/</loc>
     <lastmod>2021-10-14T11:02:15-03:00</lastmod>
   </url><url>
     <loc>https://blog.kenyos.me/</loc>
     <lastmod>2021-10-14T11:02:15-03:00</lastmod>
   </url><url>
-    <loc>https://blog.kenyos.me/herou/</loc>
+    <loc>https://blog.kenyos.me/posts/</loc>
+    <lastmod>2021-10-14T11:02:15-03:00</lastmod>
+  </url><url>
+    <loc>https://blog.kenyos.me/posts/herou/</loc>
     <lastmod>2021-10-14T11:02:14-03:00</lastmod>
   </url>
 </urlset>
