@@ -1,2 +1,0 @@
-# kenyos.github.io
-blog
