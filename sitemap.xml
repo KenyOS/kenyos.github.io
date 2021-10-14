@@ -5,13 +5,17 @@
     <loc>https://blog.kenyos.me/blog/</loc>
     <lastmod>2021-10-14T11:02:15-03:00</lastmod>
   </url><url>
-    <loc>https://blog.kenyos.me/herou-world/</loc>
+    <loc>https://blog.kenyos.me/blog/herou-world/</loc>
     <lastmod>2021-10-14T11:02:15-03:00</lastmod>
   </url><url>
     <loc>https://blog.kenyos.me/</loc>
     <lastmod>2021-10-14T11:02:15-03:00</lastmod>
   </url><url>
-    <loc>https://blog.kenyos.me/herou/</loc>
+    <loc>https://blog.kenyos.me/blog/herou/</loc>
     <lastmod>2021-10-14T11:02:14-03:00</lastmod>
+  </url><url>
+    <loc>https://blog.kenyos.me/categories/</loc>
+  </url><url>
+    <loc>https://blog.kenyos.me/tags/</loc>
   </url>
 </urlset>
