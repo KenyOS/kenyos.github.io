@@ -3,18 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://blog.kenyos.me/categories/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+    <lastmod>2021-10-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.kenyos.me/p/test-chinese/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+    <loc>https://blog.kenyos.me/categories/hello-world/</loc>
+    <lastmod>2021-10-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.kenyos.me/p/herou/</loc>
+    <lastmod>2021-10-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.kenyos.me/</loc>
-    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
+    <lastmod>2021-10-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.kenyos.me/post/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+    <lastmod>2021-10-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.kenyos.me/categories/test/</loc>
+    <lastmod>2021-10-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.kenyos.me/p/test-chinese/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.kenyos.me/categories/%E6%B5%8B%E8%AF%95/</loc>
